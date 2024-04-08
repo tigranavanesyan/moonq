@@ -2,7 +2,7 @@
 
 ## Հարցաշար
 
-- Անցեք հետևյալ [հղումով](https://docs.google.com/forms/d/1l-khzJHiSfzE9DhpTz5iDXho4qY54ChBwMf9O3xXI0U/edit)
+- Անցեք հետևյալ [հղումով](https://addonforge.com/timer/1FAIpQLSenflPw6wMHR7hvAQEG3loItsihFd5FjrSLK80oRk-z8viLXg)
 
 ## Առաջադրանք 1
 
