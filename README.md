@@ -4,7 +4,7 @@
 
 - Անցեք հետևյալ [հղումով](https://docs.google.com/forms/d/1l-khzJHiSfzE9DhpTz5iDXho4qY54ChBwMf9O3xXI0U/edit)
 
-## Առաջադրանք
+## Առաջադրանք 1
 
 1. Տիպերի և ինտերֆեյսերի սահմանում
 
@@ -50,3 +50,24 @@ _Հավելյալ առաջադրանքներ:_
 - Մաքուր և ընթեռնելի կոդ:
 - Տվյալների մուտքագրման համար TypeScript-ի հնարավորությունների օգտագործում:
 - Առաջադրանքը կատարելիս ուշադրություն դարձրեք խիստ տիպերի օգտագործմանը, հնարավորինս խուսափեք any օգտագործելուց։
+
+## Առաջադրանք 2
+
+#### Create a TypeScript program for a simple user registration system with the following requirements:
+
+- Define an interface User with the following properties:
+
+  ```
+  id of type number
+  username of type string
+  email of type string
+  password of type string
+  ```
+
+- Create a class UserRegistration with the following methods:
+
+  1.  registerUser(user): This method should add a new user to a list of registered users. Argument user of type User and function return void.
+  2.  getUserById(id): This method should return the user with the specified id or undefined if the user does not exist.
+      Argument id of type number and function return type of User of undefined.
+  3.  getUserByEmail(email) This method should return the user with the specified email or undefined if the user does not exist.
+      Argument email of type string and function return type of User of undefined.
